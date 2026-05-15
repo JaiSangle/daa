@@ -1,0 +1,13 @@
+dnc: binary search, min max, mergesort, quicksort, randomized quicksort, quicksort (median of medians) [will manage]
+greedy: fractional kp, activity selection, coin change, job sequencing, huffman
+dp: coin change, floyd warshall, knapsack, mcm, obst, tsp
+backtracking: nqueens, subset sum
+branch and bound: tsp (will manage)
+string: naive, rabin karp, kmp, boyer moore
+
+print execution time using std::chrono
+
+TO DO:
+
+quicksort (median of medians)
+karatsuba
